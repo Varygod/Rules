@@ -46,8 +46,8 @@ external-controller: '127.0.0.1:9090'
 # secret: ""
 
 # 实验性功能
-experimental:
-  ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
+#experimental:
+  #ignore-resolve-fail: true # 忽略 DNS 解析失败，默认值为 true
   # interface-name: en0 # outbound interface name
 
 # 本地 SOCKS5 / HTTP(S) 服务认证
@@ -85,7 +85,7 @@ dns:
      # - 8.8.8.8 # 谷歌DNS
      - https://doh.dns.sb/dns-query
      - https://dns.twnic.tw/dns-query
-     - tls://8.8.4.4:853
+     # - tls://8.8.4.4:853
      - https://dns.cloudflare.com/dns-query
      #- 1.1.1.1 # Cloudflare DNS
      #- tls://dns.rubyfish.cn:853
