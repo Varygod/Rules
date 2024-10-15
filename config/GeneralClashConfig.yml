@@ -82,7 +82,7 @@ dns:
      - https://doh.pub/dns-query
      #- https://doh.360.cn/dns-query # 360 DoH DNS
   fallback:
-     - 8.8.8.8 # 谷歌DNS
+     # - 8.8.8.8 # 谷歌DNS
      - https://doh.dns.sb/dns-query
      - https://dns.twnic.tw/dns-query
      - tls://8.8.4.4:853
