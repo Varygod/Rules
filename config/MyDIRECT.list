@@ -8,5 +8,5 @@
 
 DOMAIN-KEYWORD,test-ipv6.com
 DOMAIN-SUFFIX,bochk.com
-DOMAIN-SUFFIX,ocbc.com
+DOMAIN-KEYWORD,ocbc
 DOMAIN-KEYWORD,tailscale
