@@ -1,0 +1,12 @@
+# MyDIRECT.list
+#PROCESS-NAME,OneDrive
+#USER-AGENT,OneDrive*
+#USER-AGENT,OneDriveiOSApp*
+#DOMAIN-KEYWORD,1drv
+#DOMAIN-SUFFIX,livefilestore.com
+
+
+DOMAIN-KEYWORD,test-ipv6.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,ocbc.com
+DOMAIN-KEYWORD,tailscale
