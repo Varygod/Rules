@@ -15,5 +15,4 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,antbank.hk
 DOMAIN-KEYWORD,hkbank
 DOMAIN-SUFFIX,hsbc.com.hk
-DOMAIN,magpie.shuzistore.com
-DOMAIN,gw.shuzistore.com
+DOMAIN-SUFFIX,shuzistore.com
